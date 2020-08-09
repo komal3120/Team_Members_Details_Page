@@ -23,11 +23,11 @@ ul li{
 }
 nav{
 	position: fixed;
-  	width: 100%;
-  	background-color: white;
-  	height: 60px;
-  	border-bottom: 2px solid black;
-  	margin-top: 130px;
+  width: 100%;
+  background-color: white;
+  height: 60px;
+  border-bottom: 2px solid black;
+  margin-top: 130px;
 }
 nav a{
 	color: black;
@@ -64,22 +64,22 @@ nav a:hover{
 
 /*Card CSS*/
 .column .card img{
-	width:250px;
-	height:250px;
+	width:80%;
+	height:35%;
 	padding-top:10px;
 	border-radius: 500px;
 	margin-top: -100px;
 }
 .column .card img:hover{
-	width:255px;
-	height:255px;
+	width:85%;
+	height:40%;
 }
  .column
   {
-      width:25%;
-      float:left;
+    width:25%;
+    float:left;
 		padding:100px 10px;
-      margin-top: 220px;
+    margin-top: 220px;
    }
  .row{
   	width: 100%;
